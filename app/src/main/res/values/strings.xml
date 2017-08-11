@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">P!2_Demo Cool Drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="i_am_a_button">I am a button</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+</resources>
